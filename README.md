@@ -1,6 +1,6 @@
-# Simple TDD example on java
+# Basics TDD on java
 
-I used spring boot and maven on this project to show how to use TDD on java and create a simple unit test.
+I used spring boot and maven on this project to show how to use TDD on java.
 
 #### Clone repository
 
