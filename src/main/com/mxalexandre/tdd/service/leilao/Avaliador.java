@@ -1,7 +1,7 @@
-package com.mxalexandre.tdd.service;
+package com.mxalexandre.tdd.service.leilao;
 
-import com.mxalexandre.tdd.domain.Lance;
-import com.mxalexandre.tdd.domain.Leilao;
+import com.mxalexandre.tdd.domain.leilao.Lance;
+import com.mxalexandre.tdd.domain.leilao.Leilao;
 
 public class Avaliador {
 

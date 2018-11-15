@@ -1,4 +1,4 @@
-package com.mxalexandre.tdd.domain;
+package com.mxalexandre.tdd.domain.leilao;
 
 import java.util.ArrayList;
 import java.util.Collections;

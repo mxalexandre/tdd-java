@@ -1,8 +1,8 @@
-package com.mxalexandre.tdd.service;
+package com.mxalexandre.tdd.service.leilao;
 
-import com.mxalexandre.tdd.domain.Lance;
-import com.mxalexandre.tdd.domain.Leilao;
-import com.mxalexandre.tdd.domain.Usuario;
+import com.mxalexandre.tdd.domain.leilao.Lance;
+import com.mxalexandre.tdd.domain.leilao.Leilao;
+import com.mxalexandre.tdd.domain.leilao.Usuario;
 import org.junit.Assert;
 import org.junit.Test;
 

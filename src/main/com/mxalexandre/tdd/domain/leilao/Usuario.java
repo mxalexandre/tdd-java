@@ -1,4 +1,4 @@
-package com.mxalexandre.tdd.domain;
+package com.mxalexandre.tdd.domain.leilao;
 
 public class Usuario {
 
